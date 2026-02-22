@@ -1,5 +1,5 @@
 #Terraform
-![Terraform ](Terraform.flow.png.png)
+![Terraform ](Terraform.flow.png)
 
 Terraform
 
